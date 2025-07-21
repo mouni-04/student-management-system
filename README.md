@@ -23,7 +23,7 @@
 To Install & Run This Project You Have To Follow Thoose Following Steps:
 
 ```sh
-git clone https://github.com/rhishi-kesh/Student-management.git
+git clone https://github.com/yourusername/Student-management.git
 ```
 
 Go to `http://localhost/phpmyadmin` make a database name: `student_management` and Import SQL file form `SQL Folder` <br> 
